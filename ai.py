@@ -7,8 +7,8 @@ import json
 cookie_dict = {
     "__Secure-1PSID": "cQjL-Anx5XP7qFBtrZiigBV28PnXb9ZWGMWU6I9ZgpTDbVwieZc2DE3ESRInI2P1Z5oYfQ.",
     "__Secure-1PSIDTS": "sidts-CjIBNiGH7u33XkjzTqB7Dd-ihSLkBdUaEqBAwKauXhXxbDDUN68qQ5uDvmhF74AvVVz_xRAA",
-    "__Secure-1PSIDCC": "ACA-OxOIDYRRX2w80V8ZPYuCTGBI_LGwk-CTXPylzuACkeHQWdS-6jQTSqnK4Bt7zLZXdULXbA"
-    "__Secure-3PSIDCC":"ACA-OxNoAoaobh0OBga34KXAhKmHt1CDp-MPDTm3HfiIo3zfsl0ArQjWL6CAznv4U9W1LqiiBw"
+    "__Secure-1PSIDCC": "ACA-OxOIDYRRX2w80V8ZPYuCTGBI_LGwk-CTXPylzuACkeHQWdS-6jQTSqnK4Bt7zLZXdULXbA",
+    "__Secure-3PSIDCC":"ACA-OxNoAoaobh0OBga34KXAhKmHt1CDp-MPDTm3HfiIo3zfsl0ArQjWL6CAznv4U9W1LqiiBw",
     # Any cookie values you want to pass session object.
 }
 
