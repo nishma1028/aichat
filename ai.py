@@ -9,6 +9,7 @@ cookie_dict = {
     "__Secure-1PSIDTS": "sidts-CjIBNiGH7u33XkjzTqB7Dd-ihSLkBdUaEqBAwKauXhXxbDDUN68qQ5uDvmhF74AvVVz_xRAA",
     "__Secure-1PSIDCC": "ACA-OxOIDYRRX2w80V8ZPYuCTGBI_LGwk-CTXPylzuACkeHQWdS-6jQTSqnK4Bt7zLZXdULXbA",
     "__Secure-3PSIDCC":"ACA-OxNoAoaobh0OBga34KXAhKmHt1CDp-MPDTm3HfiIo3zfsl0ArQjWL6CAznv4U9W1LqiiBw",
+    "__Secure-OSID":"cgjL-DtD0oLGYSxOtnHu2oz3UIxRI6hU3UznpNDGPO-jKkuq5SXMKoBUucqQETP1uZnD_g.",
     # Any cookie values you want to pass session object.
 }
 
