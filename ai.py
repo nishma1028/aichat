@@ -5,8 +5,8 @@ from bardapi import BardCookies
 import json
 
 cookie_dict = {
-    "__Secure-1PSID": "cQhCZ0Hnt_kQSweU5ZiHbZkfYBLc9dmghM0_agUF3R_Ea05FqNSC3aRYOXBLMysJkF43IQ.",
-    "__Secure-1PSIDTS": "sidts-CjEB3e41hX2F-K_S1Rq_5mRkJ1g6PEcraBVELC4jxMNcbMTqwBRVnS8zDbzpK-oMkG8dEAA",
+    "__Secure-1PSID": "cQjL-Anx5XP7qFBtrZiigBV28PnXb9ZWGMWU6I9ZgpTDbVwieZc2DE3ESRInI2P1Z5oYfQ.",
+    "__Secure-1PSIDTS": "sidts-CjIBNiGH7u33XkjzTqB7Dd-ihSLkBdUaEqBAwKauXhXxbDDUN68qQ5uDvmhF74AvVVz_xRAA",
     # Any cookie values you want to pass session object.
 }
 
